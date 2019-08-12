@@ -1,12 +1,8 @@
-/*
-  bfsurvey.h
-  Ruben Navarro
-  COP4530
-  07/10/2018
-  Version 1.0
-  Header file bfsurvey.h for Graph Search and Survey
-
-*/
+/**********************/
+// Date: July 10, 2018
+// Name: Ruben Navarro
+// Degrees of Separation
+/**********************/
 
 #ifndef _BFSURVEY_H
 #define _BFSURVEY_H
