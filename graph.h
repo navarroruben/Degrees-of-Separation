@@ -1,13 +1,9 @@
-/*
-  graph.h
-  Ruben Navarro
-  COP4530
-  07/10/2018
-  Version 1.0
-
-  Header file graph.h for Graph Search and Survey
-
-*/
+/**********************/
+// Date: July 10, 2018
+// Name: Ruben Navarro
+// Degrees of Separation
+// Header file graph.h for Graph Search and Survey
+/**********************/
 
 #ifndef GRAPH_H
 #define GRAPH_H
