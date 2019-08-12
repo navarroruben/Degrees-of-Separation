@@ -1,12 +1,10 @@
-/*
-    hashtbl.h
-    Ruben Navarro
-    COP4530
-    07/06/2018
-    Version 1.5
+/**********************/
+// Date: July 10, 2018
+// Name: Ruben Navarro
+// Degrees of Separation
+// Header file for Hash Table 
+/**********************/
 
-    Header file for Hash Table 
-*/
 
 #ifndef _HASHTBL_H
 #define _HASHTBL_H
