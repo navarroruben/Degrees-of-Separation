@@ -1,12 +1,8 @@
-/*
-  moviematch.h
-  Ruben Navarro
-  07/18/2018
-  COP4530
-  Version 1.0
-
-  Header file for Degrees of Separation: Kevin Bacon
-*/
+/**********************/
+// Date: July 10, 2018
+// Name: Ruben Navarro
+// Degrees of Separation
+/**********************/
 
 #ifndef _MOVIEMATCH_H
 #define _MOVIEMATCH_H
